@@ -21,7 +21,7 @@ resume_contact_telephone:       "+31615360200"
 resume_contact_address:         "Albrecht Durerstraat 20-2, 1077MA Amsterdam, The Netherlands"
 
 resume_header_contact_info:     "Albrecht Durerstraat 20-2, Amsterdam • +31 615360200 • aishu.parth@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am a data scientist with 5 years of experience handling time series data. I use advanced mathematical, statistical and machine learning tools to gather insightful findings in chaotic and high dimensional datasets. Nothing excites me more than using innovative problem-solving methods to navigate complex challenges. I thrive in a team that is inspiring and passionate.</p>"
 
